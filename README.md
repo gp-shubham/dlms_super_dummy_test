@@ -24,7 +24,7 @@ To create environment for same follows these steps:
 
         source ~/venv/bin/activate
 
- -  install dependencies
+ -  Install dependencies
 
         pip install -r requirements.txt
 
