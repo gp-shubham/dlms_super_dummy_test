@@ -2,12 +2,12 @@
 
 To create environment for same follows these steps:
 
-   Clone the repository
+ -  Clone the repository
 
-      git clone https://github.com/gp-shubham/dlms_super_dummy_test.git
+        git clone https://github.com/gp-shubham/dlms_super_dummy_test.git
       
       
-      cd dlms_super_dummy_test
+        cd dlms_super_dummy_test
 
  -  To install python
 
