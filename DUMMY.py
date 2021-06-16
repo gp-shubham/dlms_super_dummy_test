@@ -1,5 +1,4 @@
 from ctypes import *
-from jnius import autoclass
 import pathlib
 
 # Setting Working DIR here for any os.
