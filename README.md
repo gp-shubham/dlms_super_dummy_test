@@ -2,25 +2,31 @@
 
 To create environment for same follows these steps:
 
- -  Clone the repository
-	  > `git clone https://github.com/gp-shubham/dlms_super_dummy_test.git`
+   Clone the repository
+
+      git clone https://github.com/gp-shubham/dlms_super_dummy_test.git
       
-      > `cd dlms_super_dummy_test`
+      
+      cd dlms_super_dummy_test
 
  -  To install python
-	  > `sudo yum update`
-	  > `sudo yum install python3 python3-pip python3-virtualenv`
+
+        sudo yum update
+	    sudo yum install python3 python3-pip python3-virtualenv
 		  
-	    *use apt for ubuntu or debian.
+	> *use apt for ubuntu or debian.
 
  -  Create Virtual Environment
-      > `virtualenv ~/venv/grampower`
+
+        virtualenv ~/venv/grampower
  
  -  Activate Virtual Environment
-	  > `source ~/venv/bin/activate`
+
+        source ~/venv/bin/activate
 
  -  To run the code.
-	  > `python HES.py`
+	
+        python HES.py
 
 ##  Output:
 
